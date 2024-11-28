@@ -5,7 +5,7 @@ Welcome to the **ML & DL Algorithms Repository**, a curated collection of Machin
 ---
 
 ## **About This Repository**
-This repository aims to:
+This repository aims to :
 - Provide **organized code** for ML and DL algorithms in a structured manner.
 - Demonstrate concepts with **graphical visualizations**.
 - Showcase **practical implementations** using real-world datasets.
@@ -13,34 +13,78 @@ This repository aims to:
 ---
 
 ## **Structure**
-The repository is organized into folders based on categories of algorithms:
+The repository is organized into folders based on categories of algorithms :
 
-### **ML/**
-Contains implementations of various Machine Learning algorithms:
-- **Supervised Learning**:
+### **Machine Learning/**
+Contains implementations of various Machine Learning algorithms :
+- **Pre-Processing** :
+  
+  - Libraries
+  - Dataset
+  - Features
+  - Imputation
+  - Encoding
+  - Splitting
+  - Feature Scaling
+    
+- **Regression** :
+
   - Linear Regression
+  - Multi-Linear Regression
+  - Polynomial Regression
+  - Support Vector Regression
+  - Decision Tree Regression
+  - Random Forest Regression
+  - Performance Evaluation
+  - Model Selection
+    
+- **Classification** :
+  
   - Logistic Regression
-  - Support Vector Machines (SVM)
-  - Decision Trees
-  - Random Forest
-  - Gradient Boosting (e.g., XGBoost)
-- **Unsupervised Learning**:
+  - K-Nearest-Neighbours
+  - Support Vector Machine
+  - Kernel SVM
+  - Naive Bayes
+  - Decision Tree Classification
+  - Random Forest Classification
+  - Performance Evaluation
+  - Model Selection
+    
+- **Clustering** :
+  
   - K-Means Clustering
-  - DBSCAN
-  - Principal Component Analysis (PCA)
-- **Reinforcement Learning**:
-  - Q-Learning
-  - Policy Gradient
-
-### **DL/**
-Contains implementations of various Deep Learning models:
-- **Neural Networks**:
-  - Feedforward Neural Networks
-  - Convolutional Neural Networks (CNN)
-  - Recurrent Neural Networks (RNN)
-- **Advanced Architectures**:
-  - Transformers
-  - Autoencoders
+  - Hierarchical Clustering
+    
+- **Associate Rule Learning** :
+  
+  - Apriori
+  - Eclat
+  - FP Growth
+    
+- **Reinforcement Learning** :
+  
+  - Upper Confidence Bound
+  - Thompson Sampling
+    
+- **Natural Language Processing** :
+  
+  - NLP
+    
+- **Deep Learning** :
+  
+  - Artificial Neural Networks
+  - Convolutional Neural Networks
+    
+- **Dimensionality Reduction** :
+  
+  - Principal Component Analysis
+  - Linear Discriminant Analysis
+  - Kernel PCA
+    
+- **Model Selection And Boosting** :
+  
+  - Model Selection
+  - XG Boost
 
 ---
 
@@ -55,7 +99,7 @@ To start exploring the algorithms in this repository, follow these steps:
 2. **Exlore The Repository**
    Move to the Machine Learning Repository
    ```bash
-   cd ML_DL_Repo
+   cd Machine-Learning
 
 ---
 
