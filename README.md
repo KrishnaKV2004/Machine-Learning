@@ -111,7 +111,7 @@ To start exploring the algorithms in this repository, follow these steps:
 ---
 
 ## **How to Use**
-1. Navigate to the `ML/` or `DL/` folders to find the desired algorithm or model.
+1. Navigate to the `Machine-Learning` folders to find the desired algorithm or model.
 2. Open the corresponding Python scripts or Jupyter notebooks.
 3. Follow the inline comments for usage instructions.
 4. Run the code and visualize results using provided example datasets or your own.
@@ -119,12 +119,12 @@ To start exploring the algorithms in this repository, follow these steps:
 ---
 
 ## **Contribution**
-Contributions are welcome to make this repository more comprehensive and useful for everyone. You can:
+Contributions are welcome to make this repository more comprehensive and useful for everyone. You can :
 - Add new ML or DL algorithms.
 - Improve existing implementations or visualizations.
 - Submit practical use cases or projects based on these algorithms.
 
-To contribute:
+To contribute :
 1. Fork this repository.
 2. Make your changes and document them clearly.
 3. Submit a pull request for review.
