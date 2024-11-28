@@ -44,6 +44,21 @@ Contains implementations of various Deep Learning models:
 
 ---
 
+## **Getting Started**
+To start exploring the algorithms in this repository, follow these steps:
+
+1. **Clone the Repository**
+   Clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/KrishnaKV2004/Machine-Learning.git
+
+2. **Exlore The Repository**
+   Move to the Machine Learning Repository
+   ```bash
+   cd ML_DL_Repo
+
+---
+
 ### **Features of Each Algorithm**
 - **Code Implementation**: Clean, commented code for easy understanding.
 - **Graphical Representation**: Plots showing decision boundaries, model performance, or data transformations.
